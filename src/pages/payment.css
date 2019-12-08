@@ -1,0 +1,31 @@
+.center {
+    text-align: center;
+        margin-top:50%;
+  }
+  .next
+  {
+      width:100%;
+      height: 45px;
+      align-items: center;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  .gimage
+  {
+      width:45px;
+      margin-left:auto;
+      margin-right:auto;
+      display: block;
+      padding: 10px;
+  }
+
+  .gimageLogo {
+    width: 45px;
+    /* margin-left: auto; */
+    margin-right: auto;
+    /* display: block; */
+    padding: 10px;
+}
+.mobileheader{
+    display: inline;
+}

@@ -1,0 +1,7 @@
+{
+  "name": "grabtest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

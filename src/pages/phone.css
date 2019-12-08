@@ -1,0 +1,23 @@
+inpyt[type=text] {
+    text-align: center;
+    padding-top:50%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    width:75px;
+  }
+  .next
+  {
+      width:30%;
+      align-items: center;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  .gimage
+  {
+      width:45px;
+      margin-left:auto;
+      margin-right:auto;
+      display: block;
+      padding: 10px;
+  }
